@@ -1,5 +1,4 @@
 # Hornisch Márton
-<!DOCTYPE html>
 <html>
 <head>
 	<title>
