@@ -1,6 +1,12 @@
 # Hornisch Márton
 <html>
 <head>
+
+<style>
+	body {background-color: blue;}
+	h1{color:red;}
+	p{color:orange;}
+</style>	
 	<title>
 		<h1>Szia</h1>
 	</title>
