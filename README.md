@@ -5,7 +5,7 @@
 <style>
 	body {background-color: lightblue;}
 	h1{color:red;}
-	p{color:orange;}
+	p{color:grey;}
 </style>	
 	<title>
 		<h1>Szia</h1>
