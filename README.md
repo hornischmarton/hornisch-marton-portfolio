@@ -1,4 +1,4 @@
-# hornisch-marton-portfolio
+# Hornisch Márton
 <!DOCTYPE html>
 <html>
 <head>
