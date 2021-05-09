@@ -4,7 +4,7 @@
 
 <style>
 	body {background-color: lightblue;}
-	h1{color:red;}
+	h1{color:blue;}
 	p{color:grey;}
 </style>	
 	<title>
